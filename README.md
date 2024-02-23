@@ -9,7 +9,8 @@ This repository contains CSS challenges from Holberton School that focus on vari
 
 Generate a layout using a sprite image (**0-sprite.png**) and the provided HTML structure. The goal is to create a visually appealing layout using CSS.
 
-<img width="493" alt="7" src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/b791cfdbd11c0eefa5f7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240223%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240223T082007Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=79f1df42dfa6604dd6cef0d6dabb948f7ec2371ccf7e0abf69f4641de552a094">
+<img width="493" alt="7" src="https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/3e0cd427-9d96-4953-9146-13598236cc35">
+
 
 ## Task 1: Move the (under)line
 
@@ -18,7 +19,8 @@ Generate a layout using a sprite image (**0-sprite.png**) and the provided HTML 
 
 Create a layout where the underline is hidden by default and appears slowly when hovering over the link. You are not allowed to change the HTML structure.
 
-![16](https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/cb70614b-c4cc-45af-9ea9-5f36a66e1a04)
+![16](https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/08ae619a-a457-4d4f-ade2-a6e468077632)
+
 
 ## Task 2: Toggle
 
@@ -28,10 +30,11 @@ Create a layout where the underline is hidden by default and appears slowly when
 Implement a custom toggle layout using the provided HTML structure. The goal is to create a visually appealing toggle switch.
 
 Checked: 
-<img width="128" alt="10" src="https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/66ead38c-7a3f-41a3-96cb-947f94058df7">
+<img width="128" alt="10" src="https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/ebe7a7cd-46db-44d3-b4e9-fa74ed4a928d">
+
 
 Unchecked: 
-<img width="110" alt="11" src="https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/a70fb392-97d5-4dd4-8e95-c5b6a826ca6c">
+<img width="110" alt="11" src="https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/c1ccd502-8416-4aa7-994d-fd572c27ca83">
 
 ## Task 3: Menu
 
@@ -40,6 +43,6 @@ Unchecked:
 
 Create a responsive menu with animations using Font Awesome icons. The provided HTML structure must not be modified.
 
-![12](https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/a1b137f7-9cbd-42e6-a4f7-fbae41b8b426)
+![12](https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/3ae87521-10e4-49a4-aa61-1808f38ac57a)
 
 *Feel free to explore each task's CSS file for detailed implementations and styles. Happy coding!*
