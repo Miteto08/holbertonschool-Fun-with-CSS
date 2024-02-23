@@ -9,7 +9,7 @@ This repository contains CSS challenges from Holberton School that focus on vari
 
 Generate a layout using a sprite image (**0-sprite.png**) and the provided HTML structure. The goal is to create a visually appealing layout using CSS.
 
-<img width="493" alt="7" src="https://github.com/Miteto08/holbertonschool-Fun-with-CSS/assets/136317791/8144c76d-9c33-4990-8f72-26f399af44b3">
+<img width="493" alt="7" src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/b791cfdbd11c0eefa5f7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240223%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240223T082007Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=79f1df42dfa6604dd6cef0d6dabb948f7ec2371ccf7e0abf69f4641de552a094">
 
 ## Task 1: Move the (under)line
 
